@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC0F954-CF37-41F7-8BEA-B4F7C5C2F49C}|Course 5\\Course 5.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\course 5\\course 5\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC0F954-CF37-41F7-8BEA-B4F7C5C2F49C}|Course 5\\Course 5.csproj|solutionrelative:course 5\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC0F954-CF37-41F7-8BEA-B4F7C5C2F49C}|Course 5\\Course 5.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\course 5\\course 5\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC0F954-CF37-41F7-8BEA-B4F7C5C2F49C}|Course 5\\Course 5.csproj|solutionrelative:course 5\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81ED55A8-78B2-4188-93EF-655B42A37D27}|OutsideAssembly\\OutsideAssembly.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\course 5\\outsideassembly\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81ED55A8-78B2-4188-93EF-655B42A37D27}|OutsideAssembly\\OutsideAssembly.csproj|solutionrelative:outsideassembly\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81ED55A8-78B2-4188-93EF-655B42A37D27}|OutsideAssembly\\OutsideAssembly.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\course 5\\outsideassembly\\accessmodifiersoutsideassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81ED55A8-78B2-4188-93EF-655B42A37D27}|OutsideAssembly\\OutsideAssembly.csproj|solutionrelative:outsideassembly\\accessmodifiersoutsideassembly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC0F954-CF37-41F7-8BEA-B4F7C5C2F49C}|Course 5\\Course 5.csproj|C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\course 5\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC0F954-CF37-41F7-8BEA-B4F7C5C2F49C}|Course 5\\Course 5.csproj|solutionrelative:course 5\\math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaticClass.cs",
+              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\Course 5\\StaticClass.cs",
+              "RelativeDocumentMoniker": "Course 5\\StaticClass.cs",
+              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\Course 5\\StaticClass.cs",
+              "RelativeToolTip": "Course 5\\StaticClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:39:50.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\OutsideAssembly\\Test.cs",
+              "RelativeDocumentMoniker": "OutsideAssembly\\Test.cs",
+              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\OutsideAssembly\\Test.cs",
+              "RelativeToolTip": "OutsideAssembly\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:38:54.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\Course 5\\Test.cs",
+              "RelativeDocumentMoniker": "Course 5\\Test.cs",
+              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\Course 5\\Test.cs",
+              "RelativeToolTip": "Course 5\\Test.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:31:37.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccessModifiersOutsideAssembly.cs",
+              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\OutsideAssembly\\AccessModifiersOutsideAssembly.cs",
+              "RelativeDocumentMoniker": "OutsideAssembly\\AccessModifiersOutsideAssembly.cs",
+              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\OutsideAssembly\\AccessModifiersOutsideAssembly.cs",
+              "RelativeToolTip": "OutsideAssembly\\AccessModifiersOutsideAssembly.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:34:27.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\Course 5\\Math.cs",
+              "RelativeDocumentMoniker": "Course 5\\Math.cs",
+              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 5\\Course 5\\Math.cs",
+              "RelativeToolTip": "Course 5\\Math.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:30:09.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
