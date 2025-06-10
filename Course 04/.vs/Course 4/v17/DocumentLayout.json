@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 4\\",
+  "WorkspaceRootPath": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\course 4\\course 4\\firefox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\course 04\\course 4\\firefox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|solutionrelative:course 4\\firefox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\course 4\\course 4\\chrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\course 4\\chrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|solutionrelative:course 4\\chrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\course 4\\course 4\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\course 4\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|solutionrelative:course 4\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\course 4\\course 4\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\course 4\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{942A93E6-D071-41B4-80F2-F1ED10C8B43C}|Course 4\\Course 4.csproj|solutionrelative:course 4\\browser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,34 +30,33 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Chrome.cs",
-              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 4\\Course 4\\Chrome.cs",
+              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\Course 4\\Chrome.cs",
               "RelativeDocumentMoniker": "Course 4\\Chrome.cs",
-              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 4\\Course 4\\Chrome.cs",
+              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\Course 4\\Chrome.cs",
               "RelativeToolTip": "Course 4\\Chrome.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:24:35.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:24:35.718Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Firefox.cs",
-              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 4\\Course 4\\Firefox.cs",
+              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\Course 4\\Firefox.cs",
               "RelativeDocumentMoniker": "Course 4\\Firefox.cs",
-              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 4\\Course 4\\Firefox.cs",
+              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\Course 4\\Firefox.cs",
               "RelativeToolTip": "Course 4\\Firefox.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T12:23:12.472Z",
               "EditorCaption": ""
@@ -66,27 +65,25 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Browser.cs",
-              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 4\\Course 4\\Browser.cs",
+              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\Course 4\\Browser.cs",
               "RelativeDocumentMoniker": "Course 4\\Browser.cs",
-              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 4\\Course 4\\Browser.cs",
+              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\Course 4\\Browser.cs",
               "RelativeToolTip": "Course 4\\Browser.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAwB0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:19:57.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:19:57.521Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 4\\Course 4\\Test.cs",
+              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\Course 4\\Test.cs",
               "RelativeDocumentMoniker": "Course 4\\Test.cs",
-              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 4\\Course 4\\Test.cs",
+              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Course 04\\Course 4\\Test.cs",
               "RelativeToolTip": "Course 4\\Test.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T12:18:44.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T12:18:44.543Z"
             }
           ]
         }
