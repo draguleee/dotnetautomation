@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wiki Page</title>
+</head>
+<body>
+
+    <div id="header">
+        <h1>WikiPage</h1>
+    </div>
+
+    <label for="htmlSelect">Select HTML version:</label>
+    <select id="htmlSelect" onchange="updateText()">
+        <option value="HTML4">HTML4</option>
+        <option value="HTML5">HTML5</option>
+        <option value="XHTML">XHTML</option>
+    </select>
+
+    <br><br>
+    <textarea id="htmlVersion" rows="6" cols="50">Select an HTML version to see details.</textarea>
+
+    <div id="footer">
+        <p>Footer Links</p>
+    </div>
+
+    <script>
+        function updateText() {
+            const dropdown = document.getElementById('htmlSelect');
+            const textArea = document.getElementById('htmlVersion');
+            const selected = dropdown.value;
+
+            if (selected === 'HTML4') {
+                textArea.textContent = 'HTML4 was a widely used version in the 90s.';
+            } else if (selected === 'HTML5') {
+                textArea.textContent = 'HTML5 is the current standard with multimedia support.';
+            } else if (selected === 'XHTML') {
+                textArea.textContent = 'XHTML is a stricter version of HTML following XML rules.';
+            }
+        }
+    </script>
+
+</body>
+</html>
