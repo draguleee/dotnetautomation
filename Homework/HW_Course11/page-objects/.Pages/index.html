@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Automation Practice Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background-color: #f9f9f9;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .section {
+            margin-bottom: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            background: #fff;
+            border-radius: 8px;
+        }
+
+        label {
+            display: block;
+            margin: 8px 0 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Automation Testing Practice Form</h1>
+
+    <form id="test-form" action="dashboard.html" method="get">
+
+        <div class="section">
+            <h2>Text Inputs</h2>
+            <label for="first-name">First Name</label>
+            <input type="text" id="first-name" name="first-name" required />
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required />
+
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" />
+        </div>
+
+        <div class="section">
+            <h2>Radio Buttons</h2>
+            <label><input type="radio" name="gender" value="male" /> Male</label>
+            <label><input type="radio" name="gender" value="female" /> Female</label>
+            <label><input type="radio" name="gender" value="other" /> Other</label>
+        </div>
+
+        <div class="section">
+            <h2>Checkboxes</h2>
+            <label><input type="checkbox" name="interests" value="coding" /> Coding</label>
+            <label><input type="checkbox" name="interests" value="music" /> Music</label>
+            <label><input type="checkbox" name="interests" value="traveling" /> Traveling</label>
+        </div>
+
+        <div class="section">
+            <h2>Textarea</h2>
+            <label for="bio">Short Bio</label>
+            <textarea id="bio" name="bio" rows="4" cols="40"></textarea>
+        </div>
+
+        <div class="section">
+            <h2>Dropdown</h2>
+            <label for="country">Choose your country:</label>
+            <select id="country" name="country">
+                <option value="">--Select--</option>
+                <option value="ro">Romania</option>
+                <option value="us">USA</option>
+                <option value="de">Germany</option>
+            </select>
+        </div>
+
+        <div class="section">
+            <h2>Buttons</h2>
+            <button type="submit">Submit</button>
+            <button type="reset">Reset</button>
+        </div>
+
+        <div class="section">
+            <h2>Special Elements</h2>
+            <label for="disabled-input">Disabled Input</label>
+            <input type="text" id="disabled-input" disabled value="Can't type here" />
+
+            <label for="hidden-input">Hidden Field (invisible)</label>
+            <input type="hidden" id="hidden-input" value="hiddenValue" />
+        </div>
+
+    </form>
+
+</body>
+</html>
