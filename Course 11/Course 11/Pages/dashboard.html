@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Dashboard - Automation Practice</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background-color: #eef3f8;
+        }
+
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 8px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .info {
+            margin-bottom: 10px;
+            padding: 10px;
+            border-left: 4px solid #007acc;
+            background: #f3faff;
+        }
+
+        .back-link {
+            margin-top: 20px;
+            display: inline-block;
+            text-decoration: none;
+            padding: 8px 12px;
+            background: #007acc;
+            color: white;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Welcome to Your Dashboard</h1>
+
+        <div class="info">
+            <strong>Name:</strong> <span id="display-name">[Name will appear here]</span>
+        </div>
+
+        <div class="info">
+            <strong>Email:</strong> <span id="display-email">[Email will appear here]</span>
+        </div>
+
+        <div class="info">
+            <strong>Country:</strong> <span id="display-country">[Country will appear here]</span>
+        </div>
+
+        <a href="index.html" class="back-link">← Go Back to Form</a>
+    </div>
+
+    <script>
+    const params = new URLSearchParams(window.location.search);
+    document.getElementById("display-name").textContent = params.get("first-name") || "Not provided";
+    document.getElementById("display-email").textContent = params.get("email") || "Not provided";
+    document.getElementById("display-country").textContent = params.get("country") || "Not provided";
+    </script>
+
+</body>
+</html>
