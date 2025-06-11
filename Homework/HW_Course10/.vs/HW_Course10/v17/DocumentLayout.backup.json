@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Homework\\HW_Course10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDF2AAE6-A3BB-42DA-AC83-F5FC74D46279}|Base\\Base.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\homework\\hw_course10\\base\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF2AAE6-A3BB-42DA-AC83-F5FC74D46279}|Base\\Base.csproj|solutionrelative:base\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDF2AAE6-A3BB-42DA-AC83-F5FC74D46279}|Base\\Base.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\homework\\hw_course10\\base\\wikitest_implicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF2AAE6-A3BB-42DA-AC83-F5FC74D46279}|Base\\Base.csproj|solutionrelative:base\\wikitest_implicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDF2AAE6-A3BB-42DA-AC83-F5FC74D46279}|Base\\Base.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\homework\\hw_course10\\base\\wikipagevalidationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF2AAE6-A3BB-42DA-AC83-F5FC74D46279}|Base\\Base.csproj|solutionrelative:base\\wikipagevalidationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BDF2AAE6-A3BB-42DA-AC83-F5FC74D46279}|Base\\Base.csproj|c:\\users\\adragu\\source\\repos\\dotnetautomation\\homework\\hw_course10\\base\\wikitest_explicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDF2AAE6-A3BB-42DA-AC83-F5FC74D46279}|Base\\Base.csproj|solutionrelative:base\\wikitest_explicit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,58 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 406,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestBase.cs",
-              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Homework\\HW_Course10\\Base\\TestBase.cs",
-              "RelativeDocumentMoniker": "Base\\TestBase.cs",
-              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Homework\\HW_Course10\\Base\\TestBase.cs",
-              "RelativeToolTip": "Base\\TestBase.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwBcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:54:40.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WikiTest_Implicit.cs",
-              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Homework\\HW_Course10\\Base\\WikiTest_Implicit.cs",
-              "RelativeDocumentMoniker": "Base\\WikiTest_Implicit.cs",
-              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Homework\\HW_Course10\\Base\\WikiTest_Implicit.cs",
-              "RelativeToolTip": "Base\\WikiTest_Implicit.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:50:37.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WikiPageValidationTest.cs",
-              "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Homework\\HW_Course10\\Base\\WikiPageValidationTest.cs",
-              "RelativeDocumentMoniker": "Base\\WikiPageValidationTest.cs",
-              "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Homework\\HW_Course10\\Base\\WikiPageValidationTest.cs",
-              "RelativeToolTip": "Base\\WikiPageValidationTest.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwC8AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:40:10.891Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "WikiTest_Explicit.cs",
               "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Homework\\HW_Course10\\Base\\WikiTest_Explicit.cs",
               "RelativeDocumentMoniker": "Base\\WikiTest_Explicit.cs",
@@ -94,16 +39,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomePageValidationTest.cs",
               "DocumentMoniker": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Homework\\HW_Course10\\Base\\HomePageValidationTest.cs",
               "RelativeDocumentMoniker": "Base\\HomePageValidationTest.cs",
               "ToolTip": "C:\\Users\\ADragu\\source\\repos\\dotnetautomation\\Homework\\HW_Course10\\Base\\HomePageValidationTest.cs",
               "RelativeToolTip": "Base\\HomePageValidationTest.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T13:40:11.152Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
