@@ -4,7 +4,7 @@ using OpenQA.Selenium.BiDi.Modules.Network;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 
-namespace Course_11.PageObjects
+namespace Course_11
 {
     public class IndexPage
     {

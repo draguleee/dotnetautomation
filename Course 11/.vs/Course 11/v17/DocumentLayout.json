@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Course 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4031062-5432-4DB1-9BA4-4C184403AE31}|Course 11\\Course 11.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\course 11\\course 11\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4031062-5432-4DB1-9BA4-4C184403AE31}|Course 11\\Course 11.csproj|solutionrelative:course 11\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4031062-5432-4DB1-9BA4-4C184403AE31}|Course 11\\Course 11.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\course 11\\course 11\\.pages\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4031062-5432-4DB1-9BA4-4C184403AE31}|Course 11\\Course 11.csproj|solutionrelative:course 11\\.pages\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4031062-5432-4DB1-9BA4-4C184403AE31}|Course 11\\Course 11.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\course 11\\course 11\\.pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4031062-5432-4DB1-9BA4-4C184403AE31}|Course 11\\Course 11.csproj|solutionrelative:course 11\\.pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Course 11\\Course 11\\.Pages\\dashboard.html",
+              "RelativeDocumentMoniker": "Course 11\\.Pages\\dashboard.html",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Course 11\\Course 11\\.Pages\\dashboard.html",
+              "RelativeToolTip": "Course 11\\.Pages\\dashboard.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-11T19:31:22.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Course 11\\Course 11\\.Pages\\index.html",
+              "RelativeDocumentMoniker": "Course 11\\.Pages\\index.html",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Course 11\\Course 11\\.Pages\\index.html",
+              "RelativeToolTip": "Course 11\\.Pages\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-11T19:31:17.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Course 11\\Course 11\\TestBase.cs",
+              "RelativeDocumentMoniker": "Course 11\\TestBase.cs",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Course 11\\Course 11\\TestBase.cs",
+              "RelativeToolTip": "Course 11\\TestBase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T19:20:48.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,6 +11,8 @@
     <None Include=".Drivers\chromedriver.exe">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Include=".Pages\dashboard.html" />
+    <None Include=".Pages\index.html" />
   </ItemGroup>
 
   <ItemGroup>
