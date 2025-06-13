@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final Assignment - Home</title>
+</head>
+
+<body>
+    <header>
+        <img src="logo.png" alt="Site Logo" id="site-logo">
+        <nav>
+            <a href="home.html" id="home-link">Home</a>
+            <a href="https://en.wikipedia.org/wiki/Selenium_(software)" id="wiki-link">Wiki</a>
+        </nav>
+    </header>
+
+    <h1>Welcome to the Final Assignment Portal</h1>
+
+    <form id="login-form" action="dashboard.html" method="GET">
+        <label for="email">Email</label>
+        <input type="text" id="email" value="test@example.com"><br>
+
+        <label for="password">Password</label>
+        <input type="password" id="password" value="password123"><br>
+
+        <button type="submit">Login</button>
+
+        <div id="error-null" style="display:none;color:red;">Email address can't be null</div>
+        <div id="error-format" style="display:none;color:red;">Email address format is not valid</div>
+        <div id="error-invalid" style="display:none;color:red;">Invalid password / email</div>
+    </form>
+
+    <footer>
+        <a href="#">Privacy</a>
+        <a href="#">Terms</a>
+        <a href="#">Contact</a>
+    </footer>
+
+    <script>
+    document.getElementById("login-form").addEventListener("submit", function (e) {
+        const email = document.getElementById("email").value.trim();
+        const password = document.getElementById("password").value.trim();
+
+        let hasError = false;
+
+        // Hide all previous error messages
+        document.getElementById("error-null").style.display = "none";
+        document.getElementById("error-format").style.display = "none";
+        document.getElementById("error-invalid").style.display = "none";
+
+        // Check if email is empty
+        if (!email) {
+            document.getElementById("error-null").style.display = "block";
+            hasError = true;
+        }
+        // Check if email is missing @
+        else if (!email.includes("@")) {
+            document.getElementById("error-format").style.display = "block";
+            hasError = true;
+        }
+        // Check if credentials are incorrect
+        else if (email !== "test@example.com" || password !== "password123") {
+            document.getElementById("error-invalid").style.display = "block";
+            hasError = true;
+        }
+
+        if (hasError) {
+            e.preventDefault(); // Prevent form submission
+        }
+    });
+    </script>
+</body>
+</html>

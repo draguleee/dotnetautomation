@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41CCCA-CAC5-4C31-81AA-0860E1F9A3E8}|FinalAssignmentTests\\FinalAssignmentTests.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\homework\\hw_course12\\finalassignmenttests\\tests\\testhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41CCCA-CAC5-4C31-81AA-0860E1F9A3E8}|FinalAssignmentTests\\FinalAssignmentTests.csproj|solutionrelative:finalassignmenttests\\tests\\testhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\homework\\hw_course12\\finalassignmentpageobjects\\resources\\home.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|solutionrelative:finalassignmentpageobjects\\resources\\home.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\homework\\hw_course12\\finalassignmentpageobjects\\pageobjects\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|solutionrelative:finalassignmentpageobjects\\pageobjects\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41CCCA-CAC5-4C31-81AA-0860E1F9A3E8}|FinalAssignmentTests\\FinalAssignmentTests.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\homework\\hw_course12\\finalassignmenttests\\base\\testbasedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41CCCA-CAC5-4C31-81AA-0860E1F9A3E8}|FinalAssignmentTests\\FinalAssignmentTests.csproj|solutionrelative:finalassignmenttests\\base\\testbasedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED41CCCA-CAC5-4C31-81AA-0860E1F9A3E8}|FinalAssignmentTests\\FinalAssignmentTests.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\homework\\hw_course12\\finalassignmenttests\\tests\\testdashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED41CCCA-CAC5-4C31-81AA-0860E1F9A3E8}|FinalAssignmentTests\\FinalAssignmentTests.csproj|solutionrelative:finalassignmenttests\\tests\\testdashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\homework\\hw_course12\\finalassignmentpageobjects\\pageobjects\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|solutionrelative:finalassignmentpageobjects\\pageobjects\\dashboardpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\homework\\hw_course12\\finalassignmentpageobjects\\resources\\errors.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|solutionrelative:finalassignmentpageobjects\\resources\\errors.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\homework\\hw_course12\\finalassignmentpageobjects\\resources\\dashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|solutionrelative:finalassignmentpageobjects\\resources\\dashboard.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\homework\\hw_course12\\finalassignmentpageobjects\\base\\pagebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD9AD38-8430-428C-8AA1-FB14AEABCD46}|FinalAssignmentPageObjects\\FinalAssignmentPageObjects.csproj|solutionrelative:finalassignmentpageobjects\\base\\pagebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 682,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.resx",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\Resources\\Home.resx",
+              "RelativeDocumentMoniker": "FinalAssignmentPageObjects\\Resources\\Home.resx",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\Resources\\Home.resx",
+              "RelativeToolTip": "FinalAssignmentPageObjects\\Resources\\Home.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-13T10:10:31.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\PageObjects\\HomePage.cs",
+              "RelativeDocumentMoniker": "FinalAssignmentPageObjects\\PageObjects\\HomePage.cs",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\PageObjects\\HomePage.cs",
+              "RelativeToolTip": "FinalAssignmentPageObjects\\PageObjects\\HomePage.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:52:09.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.resx",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\Resources\\Dashboard.resx",
+              "RelativeDocumentMoniker": "FinalAssignmentPageObjects\\Resources\\Dashboard.resx",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\Resources\\Dashboard.resx",
+              "RelativeToolTip": "FinalAssignmentPageObjects\\Resources\\Dashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-13T09:40:24.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardPage.cs",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\PageObjects\\DashboardPage.cs",
+              "RelativeDocumentMoniker": "FinalAssignmentPageObjects\\PageObjects\\DashboardPage.cs",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\PageObjects\\DashboardPage.cs",
+              "RelativeToolTip": "FinalAssignmentPageObjects\\PageObjects\\DashboardPage.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwEEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:22:27.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Errors.resx",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\Resources\\Errors.resx",
+              "RelativeDocumentMoniker": "FinalAssignmentPageObjects\\Resources\\Errors.resx",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\Resources\\Errors.resx",
+              "RelativeToolTip": "FinalAssignmentPageObjects\\Resources\\Errors.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-13T09:46:57.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageBase.cs",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\Base\\PageBase.cs",
+              "RelativeDocumentMoniker": "FinalAssignmentPageObjects\\Base\\PageBase.cs",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentPageObjects\\Base\\PageBase.cs",
+              "RelativeToolTip": "FinalAssignmentPageObjects\\Base\\PageBase.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwFAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:29:22.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestHomePage.cs",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentTests\\Tests\\TestHomePage.cs",
+              "RelativeDocumentMoniker": "FinalAssignmentTests\\Tests\\TestHomePage.cs",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentTests\\Tests\\TestHomePage.cs",
+              "RelativeToolTip": "FinalAssignmentTests\\Tests\\TestHomePage.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwD0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T22:19:28.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestBaseDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentTests\\Base\\TestBaseDashboard.cs",
+              "RelativeDocumentMoniker": "FinalAssignmentTests\\Base\\TestBaseDashboard.cs",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentTests\\Base\\TestBaseDashboard.cs",
+              "RelativeToolTip": "FinalAssignmentTests\\Base\\TestBaseDashboard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:18:41.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestDashboardPage.cs",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentTests\\Tests\\TestDashboardPage.cs",
+              "RelativeDocumentMoniker": "FinalAssignmentTests\\Tests\\TestDashboardPage.cs",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Homework\\HW_Course12\\FinalAssignmentTests\\Tests\\TestDashboardPage.cs",
+              "RelativeToolTip": "FinalAssignmentTests\\Tests\\TestDashboardPage.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswDkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:18:23.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
