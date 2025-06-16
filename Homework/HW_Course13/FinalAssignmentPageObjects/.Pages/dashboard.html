@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Final Assignment - Dashboard</title>
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Site Logo" id="site-logo">
+        <nav>
+            <a href="dashboard.html" id="dashboard-link">Dashboard</a>
+            <a href="home.html" id="logout-link">Logout</a>
+        </nav>
+    </header>
+
+    <h1>Dashboard</h1>
+
+    <form id="edit-profile-form">
+        <label for="full-name">Full Name</label>
+        <input type="text" id="full-name" value="Andre Tester"><br>
+        <div id="error-full-name" style="display:none;color:red;">Full name cannot be empty</div>
+
+        <label for="bio">Bio</label>
+        <textarea id="bio">QA Engineer</textarea><br>
+        <div id="error-bio" style="display:none;color:red;">Bio cannot be empty</div>
+
+        <div id="error-both" style="display:none;color:red;">Please fill in both Full Name and Bio.</div>
+
+        <button type="submit">Save</button>
+        <div id="save-message" style="display:none;color:green;">Details saved</div>
+    </form>
+
+    <footer>
+        <a href="#">Privacy</a>
+        <a href="#">Terms</a>
+        <a href="#">Contact</a>
+    </footer>
+
+    <script>
+        // Form validation
+        document.getElementById("edit-profile-form").addEventListener("submit", function (event) {
+            event.preventDefault();
+
+            const fullName = document.getElementById("full-name").value.trim();
+            const bio = document.getElementById("bio").value.trim();
+
+            const errorFullName = document.getElementById("error-full-name");
+            const errorBio = document.getElementById("error-bio");
+            const errorBoth = document.getElementById("error-both");
+            const saveMessage = document.getElementById("save-message");
+
+            errorFullName.style.display = "none";
+            errorBio.style.display = "none";
+            errorBoth.style.display = "none";
+            saveMessage.style.display = "none";
+
+            if (!fullName && !bio) {
+                errorBoth.style.display = "block";
+                return;
+            }
+
+            let hasError = false;
+
+            if (!fullName) {
+                errorFullName.style.display = "block";
+                hasError = true;
+            }
+
+            if (!bio) {
+                errorBio.style.display = "block";
+                hasError = true;
+            }
+
+            if (!hasError) {
+                saveMessage.style.display = "block";
+                setTimeout(() => {
+                    saveMessage.style.display = "none";
+                }, 3000);
+            }
+        });
+
+        // Logout redirect
+        document.getElementById("logout-link").addEventListener("click", function (event) {
+            event.preventDefault();
+            window.location.href = "home.html";
+        });
+    </script>
+</body>
+</html>
