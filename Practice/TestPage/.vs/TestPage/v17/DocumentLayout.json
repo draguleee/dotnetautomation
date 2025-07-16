@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Practice\\TestPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A683BC1-6D79-477B-953C-58A402ACAF7B}|TestPage\\TestPage.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\practice\\testpage\\testpage\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A683BC1-6D79-477B-953C-58A402ACAF7B}|TestPage\\TestPage.csproj|solutionrelative:testpage\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A683BC1-6D79-477B-953C-58A402ACAF7B}|TestPage\\TestPage.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\practice\\testpage\\testpage\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A683BC1-6D79-477B-953C-58A402ACAF7B}|TestPage\\TestPage.csproj|solutionrelative:testpage\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A683BC1-6D79-477B-953C-58A402ACAF7B}|TestPage\\TestPage.csproj|c:\\users\\aandr\\source\\repos\\dotnetautomation\\practice\\testpage\\testpage\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A683BC1-6D79-477B-953C-58A402ACAF7B}|TestPage\\TestPage.csproj|solutionrelative:testpage\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.cs",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Practice\\TestPage\\TestPage\\Form.cs",
+              "RelativeDocumentMoniker": "TestPage\\Form.cs",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Practice\\TestPage\\TestPage\\Form.cs",
+              "RelativeToolTip": "TestPage\\Form.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwv0gAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:54:12.332Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Practice\\TestPage\\TestPage\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "TestPage\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Practice\\TestPage\\TestPage\\ExtensionMethods.cs",
+              "RelativeToolTip": "TestPage\\ExtensionMethods.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:54:30.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestForm.cs",
+              "DocumentMoniker": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Practice\\TestPage\\TestPage\\TestForm.cs",
+              "RelativeDocumentMoniker": "TestPage\\TestForm.cs",
+              "ToolTip": "C:\\Users\\aandr\\source\\repos\\dotnetautomation\\Practice\\TestPage\\TestPage\\TestForm.cs",
+              "RelativeToolTip": "TestPage\\TestForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T09:49:35.717Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

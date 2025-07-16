@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Automation Test Form</title>
+    <script>
+        window.onload = function () {
+            const form = document.getElementById("testForm");
+            form.addEventListener("submit", function (event) {
+                event.preventDefault();
+
+                const firstName = document.getElementById("firstName").value.trim();
+                const lastName = document.getElementById("lastName").value.trim();
+                const country = document.getElementById("country").value;
+
+                const languagesCheckboxes = document.querySelectorAll("input[name='languages']:checked");
+                const languagesMulti = Array.from(document.getElementById("languagesMulti").selectedOptions)
+                    .filter(option => option.value !== "");
+
+                const gender = document.querySelector("input[name='gender']:checked");
+
+                const errorMessage = document.getElementById("errorMessage");
+                const successMessage = document.getElementById("successMessage");
+
+                // Validation: must have at least one checkbox OR one multi-select
+                const hasLanguages = languagesCheckboxes.length > 0 || languagesMulti.length > 0;
+
+                if (!firstName || !lastName || !country || !hasLanguages || !gender) {
+                    errorMessage.style.display = "block";
+                    successMessage.style.display = "none";
+                } else {
+                    errorMessage.style.display = "none";
+                    successMessage.style.display = "block";
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+    <h2>Automation Test Form</h2>
+    <form id="testForm">
+        <!-- Textboxes -->
+        <label for="firstName">First Name:</label>
+        <input type="text" id="firstName" name="firstName"><br><br>
+
+        <label for="lastName">Last Name:</label>
+        <input type="text" id="lastName" name="lastName"><br><br>
+
+        <!-- Dropdown -->
+        <label for="country">Country:</label>
+        <select id="country" name="country">
+            <option value="">--Select--</option>
+            <option value="us">United States</option>
+            <option value="uk">United Kingdom</option>
+            <option value="ro">Romania</option>
+        </select><br><br>
+
+        <!-- Checkboxes -->
+        <label>Languages Known (Checkboxes):</label><br>
+        <input type="checkbox" id="english" name="languages" value="english">
+        <label for="english">English</label><br>
+        <input type="checkbox" id="french" name="languages" value="french">
+        <label for="french">French</label><br>
+        <input type="checkbox" id="german" name="languages" value="german">
+        <label for="german">German</label><br>
+        <input type="checkbox" id="romanian" name="languages" value="romanian">
+        <label for="romanian">Romanian</label><br><br>
+
+        <!-- Multi-select -->
+        <label for="languagesMulti">Languages Known (Multi-select):</label><br>
+        <select id="languagesMulti" name="languagesMulti" multiple>
+            <option value="">--Select--</option>
+            <option value="english">English</option>
+            <option value="french">French</option>
+            <option value="german">German</option>
+            <option value="romanian">Romanian</option>
+        </select><br><br>
+
+        <!-- Radio buttons -->
+        <label>Gender:</label>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label><br><br>
+
+        <!-- Submit Button -->
+        <button type="submit" id="submitBtn">Submit</button>
+    </form>
+
+    <!-- Messages -->
+    <p id="successMessage" style="display:none; color:green; font-weight:bold;">Form submitted successfully!</p>
+    <p id="errorMessage" style="display:none; color:red; font-weight:bold;">Please complete all required fields.</p>
+</body>
+</html>
